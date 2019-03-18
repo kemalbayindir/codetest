@@ -1,0 +1,223 @@
+[
+	{
+		"productId": "3341058",
+		"type": "product",
+		"title": "Jolie Moi Bonded Lace Prom Dress",
+		"code": "69255606",
+		"averageRating": 0,
+		"reviews": 0,
+		"price": {
+			"was": "85.00",
+			"then1": "68.00",
+			"then2": "",
+			"now": {
+				"from": "59.00",
+				"to": "68.00"
+			},
+			"uom": "",
+			"currency": "GBP"
+		},
+		"image": "//johnlewis.scene7.com/is/image/JohnLewis/003335151?",
+		"additionalServices": [],
+		"displaySpecialOffer": "Reduced to clear",
+		"promoMessages": {
+			"priceMatched": "",
+			"offer": "Reduced to clear",
+			"customPromotionalMessage": "Online only",
+			"bundleHeadline": "",
+			"customSpecialOffer": {}
+		},
+		"nonPromoMessage": "",
+		"defaultSkuId": "237169638",
+		"colorSwatches": [],
+		"colorSwatchSelected": 6,
+		"colorWheelMessage": "",
+		"outOfStock": false,
+		"emailMeWhenAvailable": false,
+		"availabilityMessage": "",
+		"compare": false,
+		"fabric": "",
+		"swatchAvailable": false,
+		"categoryQuickViewEnabled": true,
+		"swatchCategoryType": "",
+		"brand": "Jolie Moi",
+		"ageRestriction": 0,
+		"isInStoreOnly": false,
+		"isMadeToMeasure": false,
+		"isBundle": false,
+		"isProductSet": false,
+		"promotionalFeatures": [],
+		"features": [],
+		"quickAddToBasket": {},
+		"dynamicAttributes": {},
+		"directorate": "Fashion Directorate",
+		"releaseDateTimestamp": 0
+	},
+	{
+		"productId": "3509555",
+		"type": "product",
+		"title": "Warehouse V-Neck Cami Dress",
+		"code": "22190426",
+		"averageRating": 0,
+		"reviews": 0,
+		"price": {
+			"was": "",
+			"then1": "",
+			"then2": "",
+			"now": "22.40",
+			"uom": "",
+			"currency": "GBP"
+		},
+		"image": "//johnlewis.scene7.com/is/image/JohnLewis/003507490?",
+		"additionalServices": [],
+		"displaySpecialOffer": "",
+		"promoMessages": {
+			"priceMatched": "",
+			"offer": "",
+			"customPromotionalMessage": "",
+			"bundleHeadline": "",
+			"customSpecialOffer": {}
+		},
+		"nonPromoMessage": "",
+		"defaultSkuId": "237473561",
+		"colorSwatches": [
+			{
+				"color": "Khaki",
+				"basicColor": "Green",
+				"colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003507453?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894&",
+				"imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003507453?",
+				"isAvailable": false,
+				"skuId": "237473294"
+			},
+			{
+				"color": "Black",
+				"basicColor": "Black",
+				"colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003505405?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894&",
+				"imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003505405?",
+				"isAvailable": true,
+				"skuId": "237469767"
+			},
+			{
+				"color": "Navy",
+				"basicColor": "Blue",
+				"colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003507480alt2?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894&",
+				"imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003507480?",
+				"isAvailable": true,
+				"skuId": "237473471"
+			},
+			{
+				"color": "Orange",
+				"basicColor": "Orange",
+				"colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003507490?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894&",
+				"imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003507490?",
+				"isAvailable": true,
+				"skuId": "237473540"
+			}
+		],
+		"colorSwatchSelected": 3,
+		"colorWheelMessage": "",
+		"outOfStock": false,
+		"emailMeWhenAvailable": false,
+		"availabilityMessage": "",
+		"compare": false,
+		"fabric": "",
+		"swatchAvailable": false,
+		"categoryQuickViewEnabled": true,
+		"swatchCategoryType": "",
+		"brand": "Warehouse",
+		"ageRestriction": 0,
+		"isInStoreOnly": false,
+		"isMadeToMeasure": false,
+		"isBundle": false,
+		"isProductSet": false,
+		"promotionalFeatures": [],
+		"features": [],
+		"quickAddToBasket": {},
+		"dynamicAttributes": {
+			"newinproducttype": "Dresses",
+			"washinginstructions": "Machine washable",
+			"dressbyoccasion": "Weekend",
+			"dressshape": "Straight",
+			"typeofpattern": "Plain"
+		},
+		"directorate": "Fashion Directorate",
+		"releaseDateTimestamp": 0
+	},
+	{
+		"productId": "3525085",
+		"type": "product",
+		"title": "hush Tasha Vest Dress",
+		"code": "44452455",
+		"averageRating": 4.5417,
+		"reviews": 24,
+		"price": {
+			"was": "",
+			"then1": "",
+			"then2": "",
+			"now": {
+				"from": "55.00",
+				"to": "100.00"
+			},
+			"uom": "",
+			"currency": "GBP"
+		},
+		"image": "//johnlewis.scene7.com/is/image/JohnLewis/003519508?",
+		"additionalServices": [],
+		"displaySpecialOffer": "Exclusive to John Lewis & hush",
+		"promoMessages": {
+			"priceMatched": "",
+			"offer": "",
+			"customPromotionalMessage": "Exclusive to John Lewis & hush",
+			"bundleHeadline": "",
+			"customSpecialOffer": {}
+		},
+		"nonPromoMessage": "",
+		"defaultSkuId": "237494601",
+		"colorSwatches": [
+			{
+				"color": "Wine",
+				"basicColor": "Red",
+				"colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003519508alt4?cropN=0.5073684210526316,0.23789473684210527,0.16842105263157894,0.16842105263157894&",
+				"imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003519508?",
+				"isAvailable": true,
+				"skuId": "237494589"
+			},
+			{
+				"color": "Midnight",
+				"basicColor": "Blue",
+				"colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003519502?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894&",
+				"imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/003519502?",
+				"isAvailable": false,
+				"skuId": "237494562"
+			}
+		],
+		"colorSwatchSelected": 0,
+		"colorWheelMessage": "",
+		"outOfStock": false,
+		"emailMeWhenAvailable": false,
+		"availabilityMessage": "",
+		"compare": false,
+		"fabric": "",
+		"swatchAvailable": false,
+		"categoryQuickViewEnabled": true,
+		"swatchCategoryType": "",
+		"brand": "hush",
+		"ageRestriction": 0,
+		"isInStoreOnly": false,
+		"isMadeToMeasure": false,
+		"isBundle": false,
+		"isProductSet": false,
+		"promotionalFeatures": [],
+		"features": [],
+		"quickAddToBasket": {},
+		"dynamicAttributes": {
+			"newinproducttype": "Dresses",
+			"washinginstructions": "Machine washable",
+			"dressbyoccasion": "Holiday",
+			"dressshape": "Shift",
+			"typeofpattern": "Plain"
+		},
+		"directorate": "Fashion Directorate",
+		"releaseDateTimestamp": 0
+	}
+]

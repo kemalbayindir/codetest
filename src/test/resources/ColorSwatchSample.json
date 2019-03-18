@@ -1,0 +1,37 @@
+[
+	{
+	"rgbColor": "#ffffff",
+	"color": "Dark Grey",
+	"skuId": "237169362"
+	},
+	{
+	"rgbColor": "#ffffff",
+	"color": "Dark Mauve",
+	"skuId": "237169364"
+	},
+	{
+	"rgbColor": "#0000ff",
+	"color": "Dark Teal",
+	"skuId": "237169370"
+	},
+	{
+	"rgbColor": "#ffffff",
+	"color": "Berry",
+	"skuId": "237169205"
+	},
+	{
+	"rgbColor": "#ff0000",
+	"color": "Burgundy",
+	"skuId": "237169270"
+	},
+	{
+	"rgbColor": "#0000ff",
+	"color": "Navy",
+	"skuId": "237169572"
+	},
+	{
+	"rgbColor": "#0000ff",
+	"color": "Royal Blue",
+	"skuId": "237169620"
+	}
+]
